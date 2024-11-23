@@ -1,0 +1,71 @@
+[33mcommit 7a3284d202fe2b7fa04375e089978bacf99e6037[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mustaq <mr.karna8861@gmail.com>
+Date:   Fri Nov 22 07:31:51 2024 +0530
+
+    ok
+
+[33mcommit 422ee00e9adc8695eadb37b295d206c5c1cd4002[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Fri Nov 22 06:29:54 2024 +0530
+
+    ok
+
+[33mcommit 1e6d2b296010c7c163bd39c5ddbe7e1d2125ae42[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Fri Nov 22 06:27:53 2024 +0530
+
+    ok
+
+[33mcommit 4709cbd8d7e6fc6e0b1e23753df2fe7cf3dc75d5[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Fri Nov 22 06:27:08 2024 +0530
+
+    ok
+
+[33mcommit e36be2ba1c1fa7f9ff897301fa1d6291043b8ab3[m
+Merge: d788a50 7d9f807
+Author: Hemanth G R <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 14:45:20 2024 +0530
+
+    Merge pull request #2 from hemanthGR2004/branch-here
+    
+    im commiting
+
+[33mcommit d788a502299ad0659108f673132e08f74a7f6e20[m
+Merge: aac4e26 bd1600d
+Author: Hemanth G R <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 14:44:56 2024 +0530
+
+    Merge pull request #1 from hemanthGR2004/feature-branch
+    
+    im commiting
+
+[33mcommit 7d9f807762629b2722f01d9a5b45490db5001401[m[33m ([m[1;31morigin/branch-here[m[33m)[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 14:01:37 2024 +0530
+
+    im commiting
+
+[33mcommit aac4e2664a6412296ef941891e3cc439d6619065[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 14:15:53 2024 +0530
+
+    ok
+
+[33mcommit bd1600d1c6d25d74c4794ec04a89782911ae0fc4[m[33m ([m[1;31morigin/feature-branch[m[33m)[m
+Author: hemanth GR <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 14:01:37 2024 +0530
+
+    im commiting
+
+[33mcommit 60dbba47b04c9bf0206bef4ed926b9698436a7c3[m[33m ([m[1;31morigin/luggy[m[33m)[m
+Author: Hemanth G R <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 09:14:40 2024 +0530
+
+    Update README.md
+
+[33mcommit 1196c1987daac60c88ee8bd0aa544b94200f079f[m[33m ([m[1;31morigin/disco_shanti[m[33m, [m[1;31morigin/anitha[m[33m)[m
+Author: Hemanth G R <mr.karna8861@gmail.com>
+Date:   Thu Nov 21 06:54:51 2024 +0530
+
+    Initial commit
